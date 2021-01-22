@@ -1,0 +1,27 @@
+{
+  "name": "TelBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2",
+    "slimbot": "^4.9.0",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.38.0",
+    "tgapi": "^2.2.6",
+    "unirest": "^0.6.0",
+    "now-env": "^3.1.0"
+  }
+}
