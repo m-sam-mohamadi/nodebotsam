@@ -1,6 +1,5 @@
 const { Telegraf } = require('telegraf')
-let axios = require('axios')
-const e = require('express')
+let axios = require('axios') 
 var token = '1525922151:AAGy7gbJD6SIIeQ_bjtaTWObaUnnGMH4zW4'
 
 let botAdmins = ["m_sam_mohamadi", "M_programer_H", "mmddssmmm"]
